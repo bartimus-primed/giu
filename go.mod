@@ -1,4 +1,4 @@
-module github.com/AllenDang/giu
+module github.com/bartimus-primed/giu
 
 go 1.13
 
